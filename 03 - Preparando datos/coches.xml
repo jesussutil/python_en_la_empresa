@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root name="coches">
+   <element>
+      <cilindrada>2,0</cilindrada>
+      <color>azul</color>
+      <combustible>diesel</combustible>
+      <latitud>42.601128</latitud>
+      <longitud>-5.582402</longitud>
+      <marca>audi</marca>
+      <modelo>a3</modelo>
+      <ultima_posicion>01/05/2022</ultima_posicion>
+   </element>
+   <element>
+      <cilindrada>1,2</cilindrada>
+      <color>rojo</color>
+      <combustible>gasolina</combustible>
+      <latitud>53.18945</latitud>
+      <longitud>-2.8896847</longitud>
+      <marca>citroen</marca>
+      <modelo>c4</modelo>
+      <ultima_posicion>02/06/2022</ultima_posicion>
+   </element>
+   <element>
+      <cilindrada>1,8</cilindrada>
+      <color>blanco</color>
+      <combustible>gasolina</combustible>
+      <latitud>34.657387</latitud>
+      <longitud>135.13858</longitud>
+      <marca>toyota</marca>
+      <modelo>corolla</modelo>
+      <ultima_posicion>20/04/2022</ultima_posicion>
+   </element>
+</root>
