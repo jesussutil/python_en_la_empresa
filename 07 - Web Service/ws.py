@@ -33,8 +33,6 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
         
         if (valid == True):                # Si es correcto devolvemos un 200
 
-            valid = False
-
             self.send_response(200)
             self.end_headers()
             response = BytesIO()
