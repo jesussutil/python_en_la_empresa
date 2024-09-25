@@ -96,8 +96,6 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
             print ("direccion: ", addr)
             lat,long = getlatlong(addr, driver)
 
-            valid = False
-
             self.send_response(200)
             self.end_headers()
             response = BytesIO()
